@@ -1,0 +1,10 @@
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\obj\Debug\HelloAngularJS_EF.Core.csprojResolveAssemblyReference.cache
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\bin\Debug\HelloAngularJS_EF.Core.dll.config
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\bin\Debug\HelloAngularJS_EF.Core.dll
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\bin\Debug\HelloAngularJS_EF.Core.pdb
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\bin\Debug\EntityFramework.dll
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\bin\Debug\EntityFramework.xml
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\obj\Debug\HelloAngularJS_EF.Core.dll
+C:\Users\lzhang\Documents\Visual Studio 2015\Projects\HelloAngularJS_EF\HelloAngularJS_EF.Core\obj\Debug\HelloAngularJS_EF.Core.pdb
